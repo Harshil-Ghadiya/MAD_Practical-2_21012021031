@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
         super.onStart()
         showMessage("onStart method is called")
 
-
+        
     }
 
     override fun onResume() {
@@ -41,6 +41,11 @@ class MainActivity : AppCompatActivity() {
     override fun onStop() {
         super.onStop()
         showMessage("onStop method is called")
+    }
+
+     override fun onRestart() {
+        super.onRestart()
+        showMessage("onRestart method is called")
     }
     fun showMessage(message: String) {
         Log.i(TAG, message)
