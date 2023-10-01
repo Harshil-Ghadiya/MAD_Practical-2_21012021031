@@ -6,8 +6,8 @@ creating Activity, demonstrate functions of Activity Life Cycle by using Log mes
 
 **-> Output :-**
 
-![image](https://github.com/Divy484/MAD_Practical-2_21012011072/assets/98522523/ee5a6b58-7557-431c-8056-00281eb23ef5)
+![image](https://github.com/Divy484/MAD_Practical-2_21012011031/assets/98522523/ee5a6b58-7557-431c-8056-00281eb23ef5)
 
-![image](https://github.com/Divy484/MAD_Practical-2_21012011072/assets/98522523/49a89ebc-ff31-4148-9341-5bd245cb13be)
+![image](https://github.com/Divy484/MAD_Practical-2_21012011031/assets/98522523/49a89ebc-ff31-4148-9341-5bd245cb13be)
 
 !![Logcat message1](https://github.com/Harshil-Ghadiya/MAD_Practical-2_21012021031/assets/122811629/4510226b-4b97-4c8a-89d0-efa827e46184)
