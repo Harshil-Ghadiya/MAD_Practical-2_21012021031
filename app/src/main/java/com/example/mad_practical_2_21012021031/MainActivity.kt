@@ -53,7 +53,7 @@ class MainActivity : AppCompatActivity() {
         var v = findViewById<View>(R.id.MyConstraintLayout)
         if(v!= null)
 
-
+        
         Snackbar.make(
             findViewById(R.id.MyConstraintLayout),
             message,
@@ -65,7 +65,7 @@ class MainActivity : AppCompatActivity() {
 
 
 
-
+    }
 
     }
 }
